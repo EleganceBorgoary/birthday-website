@@ -1,0 +1,42 @@
+body {
+   background-color: rgb(252, 252, 251);
+   
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+    text-align: center;
+    text-decoration: overline underline;
+    text-decoration-color:rgb(21, 21, 21);
+    text-shadow: 2px 2px 5px rgb(37, 5, 49);
+    font-family: 'Courier New', Courier, monospace;
+   
+   /* line-height: 200px;
+    margin-top: -100px;
+    top: 50%;*/
+    top:20%;
+    bottom:60%;
+    position: absolute;
+    text-align: center;
+    width:100%;
+    left: 0px;
+    
+  }
+  .botton {
+    top:50%;
+    bottom:50%;
+    position: absolute;
+    text-align: center;
+    width:100%;
+    left: 40px;
+
+  }
+  .gif-container {
+    top:50%;
+    bottom:50%;
+    position:absolute;
+    width:100%;
+    left:38%;
+  }
+  
